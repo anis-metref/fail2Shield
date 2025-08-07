@@ -20,8 +20,11 @@ Cette application a été développée pour simplifier la gestion de Fail2ban vi
 # 1. Télécharger les fichiers
 git clone https://github.com/anis-metref/fail2Shield.git
 cd fail2Shield
+```
 
+```
 # 2. Lancer l'application
+sudo chmod +x run.sh
 sudo ./run.sh
 ```
 
