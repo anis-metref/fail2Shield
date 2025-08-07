@@ -61,7 +61,7 @@ sudo ./run.sh
 
 ## Support OS
 
-L'application fonctionne sur Ubuntu, Debian, CentOS, Fedora et autres distributions Linux.
+L'application fonctionne sur Ubuntu, Debian
 
 ![ssh](./captures/3.png)
 ---
