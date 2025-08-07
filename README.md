@@ -51,7 +51,10 @@ sudo ./run.sh
 - Fail2ban installé + iptables
 - Permissions sudo (pour accès complet)
 
-## Support
+![ssh](./captures/3.png)
+
+
+## Support OS
 
 L'application fonctionne sur Ubuntu, Debian, CentOS, Fedora et autres distributions Linux.
 
