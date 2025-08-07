@@ -2,6 +2,9 @@
 
 Un dashboard web simple pour surveiller et gérer Fail2ban.
 
+![fail2ban](./captures/2.png)
+
+
 ## Contexte du Développement
 
 Cette application a été développée pour simplifier la gestion de Fail2ban via une interface web moderne. Au lieu d'utiliser les lignes de commande, vous pouvez maintenant :
