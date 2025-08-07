@@ -7,7 +7,7 @@ Un dashboard web simple pour surveiller et gérer Fail2ban.
 
 ## Contexte du Développement
 
-Cette application a été développée pour simplifier la gestion de Fail2ban via une interface web moderne. Au lieu d'utiliser les lignes de commande, vous pouvez maintenant :
+Cette application a été développée pour simplifier la gestion de Fail2ban via une interface web. Au lieu d'utiliser les lignes de commande, vous pouvez maintenant :
 
 - Voir les IPs bannies en temps réel
 - Bannir/débannir des IPs en un clic
