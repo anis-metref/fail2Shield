@@ -25,6 +25,9 @@ Cette application a été développée pour simplifier la gestion de Fail2ban vi
 ## Installation Rapide
 
 ```bash
+sudo apt update
+sudo apt install python3-pip python3-venv fail2ban iptables
+
 # 1. Télécharger les fichiers
 git clone https://github.com/anis-metref/fail2Shield.git
 cd fail2Shield
