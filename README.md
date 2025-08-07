@@ -15,7 +15,7 @@ Cette application a été développée pour simplifier la gestion de Fail2ban vi
 
 ```bash
 # 1. Télécharger les fichiers
-git clone 
+git clone https://github.com/anis-metref/fail2Shield.git
 cd fail2Shield
 
 # 2. Lancer l'application
@@ -27,6 +27,9 @@ sudo ./run.sh
 1. Ouvrir votre navigateur : `http://localhost:8501`
 2. L'application se lance automatiquement
 3. Si Fail2ban n'est pas installé, suivre les instructions affichées
+
+![ssh](./captures/1.png)
+
 
 ## Fonctionnalités
 
