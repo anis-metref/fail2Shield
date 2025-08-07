@@ -51,7 +51,7 @@ sudo ./run.sh
 ## Fonctionnalités
 
 - **Dashboard** : Vue d'ensemble des menaces
-- **SSH** : Analyse des connexion ssh
+- **SSH** : Analyse des connexions ssh
 - **Gestion IPs** : Bannir/débannir facilement
 - **Cartes géographiques** : Voir d'où viennent les attaques
 - **Configuration** : Modifier les paramètres des jails
