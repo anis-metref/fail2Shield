@@ -35,7 +35,7 @@ cd fail2Shield
 
 ```
 # 2. Lancer l'application
-sudo chmod +x run.sh
+chmod +x run.sh
 sudo ./run.sh
 ```
 
