@@ -39,6 +39,9 @@ sudo ./run.sh
 - **Configuration** : Modifier les paramètres des jails
 - **Logs** : Analyser l'activité de sécurité
 
+  ![ips-ban](./captures/4.png)
+
+
 ## Prérequis
 
 - Python 3.8+
