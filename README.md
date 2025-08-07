@@ -22,7 +22,7 @@ Cette application a été développée pour simplifier la gestion de Fail2ban vi
 - Permissions sudo (pour accès complet)
 
 
-## Installation Rapide
+## Installation
 
 ```bash
 sudo apt update
