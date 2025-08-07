@@ -14,6 +14,14 @@ Cette application a été développée pour simplifier la gestion de Fail2ban vi
 - Visualiser les attaques par pays avec des graphiques
 - Modifier la configuration des jails facilement
 
+## Prérequis
+
+- Python 3.8+
+- pip + python3-venv
+- Fail2ban installé + iptables
+- Permissions sudo (pour accès complet)
+
+
 ## Installation Rapide
 
 ```bash
@@ -48,19 +56,11 @@ sudo ./run.sh
   ![ips-ban](./captures/4.png)
 
 
-## Prérequis
-
-- Python 3.8+
-- Fail2ban installé + iptables
-- Permissions sudo (pour accès complet)
-
-![ssh](./captures/3.png)
-
-
 ## Support OS
 
 L'application fonctionne sur Ubuntu, Debian, CentOS, Fedora et autres distributions Linux.
 
+![ssh](./captures/3.png)
 ---
 
 **Fail2Shield Dashboard** - Sécurité simplifiée pour tous.
